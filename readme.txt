@@ -42,6 +42,9 @@ Support is provided here: www.oopstouch.com
 Sorry, no screenshots
 
 == Changelog ==
+= Version 1.01 March 22nd, 2013 =
+Correction in file header to avoid error "The plugin does not have a valid header".
+
 = Version 1.00 December 21st, 2012 =
 First version based on SlideshowFx for Joomla from same author.
 
