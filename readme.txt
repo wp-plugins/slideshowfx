@@ -4,7 +4,7 @@ Donate link: http://www.oopstouch.com
 Tags: photos, video, albums, photo albums, picasa, google+, flickr, slideshowfx, oopstouch
 Requires at least: 3.4.2
 Tested up to: 3.5
-Stable tag: 1.00
+Stable tag: 1.01
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
