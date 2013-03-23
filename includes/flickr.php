@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 	Plugin Name: SlideshowFx
 	Plugin URI: http://wordpress.org/extend/plugins/slideshowfx/
