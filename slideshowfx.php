@@ -4,7 +4,7 @@
 	Plugin URI: http://wordpress.org/extend/plugins/slideshowfx/
 	Description: Insert Google+, Picasa or Flickr albums and photo thumbnail inside WordPress articles.
 	Author: Joel VALLIER
-	Version: 1.0
+	Version: 1.1
 	Author URI: http://www.oopstouch.com/
 	Plugin URI: http://wordpress.org/extend/plugins/slideshowfx/
 	License URI: http://www.gnu.org/licenses/gpl-3.0.html
